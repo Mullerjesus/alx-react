@@ -1,1 +1,1 @@
-This Project is All About Webpack
+This project is All About Webpack
