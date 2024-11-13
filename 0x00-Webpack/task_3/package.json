@@ -8,7 +8,7 @@
     "start-dev": "webpack-dev-server --open"
   },
   "keywords": [],
-  "author": "",
+  "author": "Muluken Eshetu",
   "license": "ISC",
   "devDependencies": {
     "clean-webpack-plugin": "^4.0.0",
