@@ -1,0 +1,14 @@
+{
+  "name": "0x07-react_redux_action_creator_normalizr",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "normalizr": "^3.6.1"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
