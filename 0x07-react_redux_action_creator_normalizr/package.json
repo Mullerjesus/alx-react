@@ -1,0 +1,14 @@
+{
+  "name": "0x07-react_redux_action_creator_normalizr",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^29.0.0",
+    "normalizr": "^3.6.2",
+    "redux": "^4.2.1"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
